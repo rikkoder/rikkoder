@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rikkoder
-- 👀 I’m interested in making stupid games and programs
+- 👀 I write strange jumbled sentences
 - 🌱 I’m currently learning C
 
 <!---
